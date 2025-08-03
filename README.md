@@ -1,6 +1,6 @@
 # Birendra-Sasmal
 It's about a friendly neighborhood techie.
-<h1 align="center">Hey there, I'm Rocky 👋</h1>
+<h1 align="center">Hey there, I'm Birendra 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Cloud+Architect;DevOps+in+Progress;Python+Automation+Lover;Future+AI+Engineer&center=true&width=500&height=45" />
@@ -11,7 +11,7 @@ It's about a friendly neighborhood techie.
 ### 🚀 About Me
 
 - 🎓 BCA Student | 2nd Year | Tier-3 College
-- 🧠 Learning: **Linux**, **Networking**, **Cloud & DevOps**
+- 🧠 Learning: **Python**, **Networking**, **Cloud & DevOps**
 - 🤖 Building: Face Recognition Attendance System, Personal JARVIS
 - 🎯 Goal: Become a Cloud Architect via DevOps 🚀
 
@@ -20,7 +20,7 @@ It's about a friendly neighborhood techie.
 ### 🛠️ Skills & Tools
 
 - **Languages**: Python, Bash
-- **DevOps Tools**: Git, GitHub, Linux, Shell scripting
+- **DevOps Tools**: Git, GitHub, Linux, Shell scripting, Docker, kubernetes, Jenkins, Ansible, Terraform, AWS
 - **Cloud**: Learning AWS (EC2, S3, IAM)
 - **Tech Interests**: NLP, AI, System Automation
 
